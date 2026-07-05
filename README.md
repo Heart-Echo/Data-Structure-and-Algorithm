@@ -1,19 +1,2 @@
-# VS Code
-.vscode/
-
-# Executable
-*.exe
-
-# Object files
-*.o
-*.obj
-
-# Debug
-*.pdb
-
-# Temporary
-*.tmp
-
-# Windows
-Thumbs.db
-Desktop.ini
+数据结构机考复习，祝自己成功吧
+终见青山！
