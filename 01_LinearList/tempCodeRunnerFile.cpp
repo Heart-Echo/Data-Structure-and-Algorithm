@@ -184,24 +184,20 @@ int main()
 {
     Linklist L;
 
+    cout<<"A"<<endl;
+
     Initlist(L);
 
-    cout<<"开始"<<endl;
+    cout<<"B"<<endl;
+
+    cout<<getlength(L)<<endl;
+
+    cout<<"C"<<endl;
 
 
     InsertLinklist(L,1,985);
-    cout<<"插入1完成"<<endl;
 
-
-    InsertLinklist(L,2,211);
-    cout<<"插入2完成"<<endl;
-
-
-    InsertLinklist(L,3,666);
-    cout<<"插入3完成"<<endl;
-
-
-    printlink(L);
+    cout<<"D"<<endl;
 
 
     return 0;
